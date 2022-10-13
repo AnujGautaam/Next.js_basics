@@ -1,0 +1,10 @@
+.custom_div{
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+    font-weight: 900;
+}
+
+/* while using the console, it is noted that .custom_div takes in some additional words from the next js server that provides us with an option to use the same class name elsewhere as it is probably going to be concatinated  with additional keywords*/
+
+/* furthermore .custom-div doesnt seem to work while only underscore seem to work */
